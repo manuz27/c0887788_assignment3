@@ -3,7 +3,7 @@ const express = require('express');
 
 const app = express();
 const SERVER_PORT = process.env.PORT || 3000;
-const NAME = process.env.NAME || "Sarthak"
+const NAME = process.env.NAME || "Maneesh"
 
 
 // Use body-parser middleware to parse incoming request bodies

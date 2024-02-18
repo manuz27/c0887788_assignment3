@@ -1,5 +1,5 @@
 {
-  "name": "c0883191_classassignment_3",
+  "name": "c0887788_classassignment_3",
   "version": "1.0.0",
   "description": "Devops-Assignment3 For Node Express",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "assignment3",
     "express"
   ],
-  "author": "C0883191-Sarthak",
+  "author": "c0887788-Maneesh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
